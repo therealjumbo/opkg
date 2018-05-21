@@ -1,3 +1,6 @@
+# Code was taken from the librepo project (the link farther below no longer works)
+# https://github.com/rpm-software-management/librepo/blob/master/cmake/Modules/FindGpgme.cmake
+
 # Code is taken from KDE project:
 # http://code.metager.de/source/xref/kde/kdepimlibs/cmake/modules/FindGpgme.cmake
 #
